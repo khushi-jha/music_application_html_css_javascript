@@ -1,0 +1,1 @@
+create table audioslib(filename,picname,song,album);

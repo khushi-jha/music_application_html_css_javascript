@@ -1,0 +1,75 @@
+.container
+{
+  height: 100%;
+  display: flex;
+  
+}
+
+.gray-part
+{
+  background-color: lightgrey;
+  height: 70%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.main
+{
+	width: 100%;
+	height: 600px;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+.main
+{
+  width: 65%;
+  height: 80%;
+  border: 1px solid black;
+  background-color: white;
+    
+
+}
+table
+{
+  font-size: 20px;
+    padding: 10px 20px;
+  
+}
+input, select
+{
+  font-size: 15px;
+    width: 200px;
+}
+
+td
+{
+    height: 40px;
+    width: 200px;
+    padding: 5px;
+}
+
+#ghoomo
+{
+    background-color: lightslategrey;
+    color: white;
+    margin: 40px;
+    border: 1px solid lightgrey;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+.header
+{
+    margin: 20px;
+    font-size: 20px;
+}
